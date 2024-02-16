@@ -196,6 +196,7 @@ Main img{
     font-weight: 600;
     border-bottom: 5px solid gold;
     width: 50%;
+    font-size: 32px;
     display: inline;
 }
 
@@ -292,7 +293,7 @@ Main img{
         background-position: center center;
         width: 100%;
         background-size: cover;
-        height: 150vh;
+        height: 100vh;
         position: relative;
     }
     .secThirdOne{
